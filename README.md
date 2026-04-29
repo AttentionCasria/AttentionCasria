@@ -11,7 +11,8 @@
 ---
 
 ### 💫 About Me
-<img align="right" width="220" src="./images/jupai.png" alt="Anime Girl" />
+<img align="right" width="220" src="./assets/fnn.jpg" alt="Anime Girl" />
+<img align="right" width="220" src="./assets/bz.jpg" alt="Anime Girl 2" />
 
 I am a developer deeply focused on **Deep Learning**, **Large Language Model (LLM) Algorithms**, and **AI Application Development**, supplemented by a solid foundation in **Java Backend Development**. I aim to bridge the gap between cutting-edge AI research and robust, scalable engineering systems.
 
