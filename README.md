@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Attention | AI & Backend Engineer
+# 👋 Hi, I'm Attention | AI Algorithm Engineer & Developer
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Attention%20Casria&fontSize=70" />
@@ -13,10 +13,13 @@
 ### 💫 About Me
 <img align="right" width="220" src="./images/jupai.png" alt="Anime Girl" />
 
-- 🔭 **Current Focus**: Architecting LLM-driven applications & High-concurrency Java systems.
-- 🧠 **Research**: Deep Learning Algorithms & Generative AI Engineering.
-- 🌱 **Learning**: Advanced Prompt Engineering & Distributed System Consistency.
-- 💬 **Ask me about**: `Spring Boot`, `LangChain`, `PyTorch`, or `RAG` architectures.
+I am a developer deeply focused on **Deep Learning**, **Large Language Model (LLM) Algorithms**, and **AI Application Development**, supplemented by a solid foundation in **Java Backend Development**. I aim to bridge the gap between cutting-edge AI research and robust, scalable engineering systems.
+
+- 🔭 **Current Focus**: Architecting LLM-driven applications (Agents, RAG) & building intelligent generative AI systems.
+- 🧠 **Research**: Deep Learning architectures, LLM Fine-tuning, and model inference optimization.
+- 💻 **Engineering**: Leveraging Java/Spring Boot and Python to build robust backend APIs and microservices for AI models.
+- 🌱 **Learning**: Agentic AI workflows, Multimodal Models, and Distributed Systems.
+- 💬 **Ask me about**: `PyTorch`, `Transformers`, `LangChain`, `RAG`, or `Spring Boot`.
 
 <p align="left">
   <a href="https://github.com/AttentionCasria" target="blank">
@@ -28,7 +31,7 @@
 
 ### 🛠️ Tech Stack
 
-#### 🤖 Artificial Intelligence & Data Science
+#### 🤖 Deep Learning & Large Language Models
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,opencv,anaconda" />
   <br>
@@ -36,13 +39,13 @@
   <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="45" height="45" alt="langchain" />
   <img src="https://cdn.simpleicons.org/ollama/000000" width="45" height="45" alt="ollama" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" />
 </p>
 
 #### ☕ Backend & Infrastructure
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,redis,kafka,rabbitmq,nginx,docker,linux,fastapi,django,flask" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,redis,kafka,rabbitmq,nginx,docker,linux,fastapi,flask" />
 </p>
 
 #### 🔧 Tools & Workflow
