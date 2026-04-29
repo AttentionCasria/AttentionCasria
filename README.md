@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Attention | AI Algorithm Engineer & Developer
 
 <p align="center">
-  <img src="assets/bqj.jpg" width="200" />
   <img src="assets/bz.jpg" width="200" />
   <img src="assets/fnn.jpg" width="200" />
   <img src="assets/welt.jpg" width="200" />
+  <img src="assets/bqj.jpg" width="200" />
 </p>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 ### 💫 About Me
 
-I am a developer deeply focused on **Deep Learning**, **Large Language Model (LLM) Algorithms**, and **AI Application Development**, supplemented by a solid foundation in **Java Backend Development**.
+I am a developer deeply focused on **Deep Learning**, **Large Language Model (LLM) Algorithms**, and **AI Application Development**, supplemented by a solid foundation in **Java Backend Developmen[...]
 
 - 🔭 **Current Focus**: Architecting LLM-driven applications (Agents, RAG) & building intelligent generative AI systems.
 - 🧠 **Research**: Deep Learning architectures, LLM Fine-tuning, and model inference optimization.
