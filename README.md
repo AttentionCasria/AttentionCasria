@@ -11,10 +11,8 @@
 ---
 
 ### 💫 About Me
-<img align="right" width="220" src="./assets/fnn.jpg" alt="Anime Girl" />
-<img align="right" width="220" src="./assets/bz.jpg" alt="Anime Girl 2" />
 
-I am a developer deeply focused on **Deep Learning**, **Large Language Model (LLM) Algorithms**, and **AI Application Development**, supplemented by a solid foundation in **Java Backend Development**. I aim to bridge the gap between cutting-edge AI research and robust, scalable engineering systems.
+I am a developer deeply focused on **Deep Learning**, **Large Language Model (LLM) Algorithms**, and **AI Application Development**, supplemented by a solid foundation in **Java Backend Development**.
 
 - 🔭 **Current Focus**: Architecting LLM-driven applications (Agents, RAG) & building intelligent generative AI systems.
 - 🧠 **Research**: Deep Learning architectures, LLM Fine-tuning, and model inference optimization.
@@ -78,9 +76,6 @@ I am a developer deeply focused on **Deep Learning**, **Large Language Model (LL
 ---
 
 ### 📅 Contribution Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AttentionCasria/AttentionCasria/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AttentionCasria&theme=flat" alt="trophy" /></a>
