@@ -63,7 +63,6 @@ I am a developer deeply focused on **Deep Learning**, **Large Language Model (LL
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AttentionCasria&show_icons=true&theme=transparent&locale=en" />
       </td>
       <td>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AttentionCasria&layout=compact&theme=transparent&locale=en" />
