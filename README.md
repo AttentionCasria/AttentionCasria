@@ -15,7 +15,7 @@
 
 ### 💫 About Me
 
-I am a developer deeply focused on **Deep Learning**, **Large Language Model (LLM) Algorithms**, and **AI Application Development**, supplemented by a solid foundation in **Java Backend Developmen[...]
+I am a developer deeply focused on **Deep Learning**, **Large Language Model (LLM) Algorithms**, and **AI Application Development**, supplemented by a solid foundation in **Java Backend Development**.
 
 - 🔭 **Current Focus**: Architecting LLM-driven applications (Agents, RAG) & building intelligent generative AI systems.
 - 🧠 **Research**: Deep Learning architectures, LLM Fine-tuning, and model inference optimization.
