@@ -59,18 +59,6 @@ I am a developer deeply focused on **Deep Learning**, **Large Language Model (LL
 
 ### 📊 Github Statistics
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AttentionCasria&layout=compact&theme=transparent&locale=en" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AttentionCasria&theme=transparent" alt="GitHub Streak" />
 </p>
