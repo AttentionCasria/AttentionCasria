@@ -17,11 +17,13 @@
 
 I am a developer deeply focused on **Deep Learning**, **Large Language Model (LLM) Algorithms**, and **AI Application Development**, supplemented by a solid foundation in **Java Backend Development**.
 
-- 🔭 **Current Focus**: Architecting LLM-driven applications (Agents, RAG) & building intelligent generative AI systems.
-- 🧠 **Research**: Deep Learning architectures, LLM Fine-tuning, and model inference optimization.
-- 💻 **Engineering**: Leveraging Java/Spring Boot and Python to build robust backend APIs and microservices for AI models.
-- 🌱 **Learning**: Agentic AI workflows, Multimodal Models, and Distributed Systems.
-- 💬 **Ask me about**: `PyTorch`, `Transformers`, `LangChain`, `RAG`, or `Spring Boot`.
+*(Oh, and I also claim to be a "mediocre" researcher, though a peer-reviewed **CVPR paper** might say otherwise. 😉)*
+
+- 🔭 **Current Focus**: Architecting production-ready LLM applications (AI Agents, Advanced RAG) & building intelligent generative AI systems.
+- 🧠 **Research & Algorithms**: Deep Learning architectures, PEFT (Parameter-Efficient Fine-Tuning), model quantization, and optimization.
+- 💻 **Engineering**: Leveraging Python (PyTorch/FastAPI) and Java/Spring Boot to build high-concurrency, robust backend APIs and microservices for AI models.
+- 🌱 **Learning**: Multi-Agent orchestration, Multimodal Models, and Distributed Systems.
+- 💬 **Ask me about**: `PyTorch`, `Transformers`, `LangChain`, `RAG`, `Spring Boot`, or **how to accidentally get a CVPR accepted**.
 
 <p align="left">
   <a href="https://github.com/AttentionCasria" target="blank">
